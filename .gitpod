@@ -3,8 +3,7 @@ workspaceLocation: /
 image:
   file: Dockerfile
 ports:
-  - port: 6080
-    port: 51413
+  - port: 6080 , 51413
     protocol: "http"
 tasks:
   - command: "go get -v ./... && go run main.go"
