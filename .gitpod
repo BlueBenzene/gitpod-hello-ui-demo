@@ -5,7 +5,5 @@ image:
 ports:
   - port: 6080
     protocol: "http"
-  - port: 51413
-    protocol:"tcp"
 tasks:
   - command: "go get -v ./... && go run main.go"
