@@ -1,5 +1,4 @@
 # vncfireui 
 
 try to make a remote session 
-
-confidential
+ha  ha ha ....
